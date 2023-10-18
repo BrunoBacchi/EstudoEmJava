@@ -1,0 +1,7 @@
+2023-10-18 18:59:37,562 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 19:23:01,496 [Worker-22: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\temp\ws-eclipse\exercicios\EstudoEmJava\.git]
+2023-10-18 19:23:01,665 [Worker-22: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Bacchi\git\EstudoEmJava\.git]
+2023-10-18 19:26:02,860 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 19:26:55,264 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 19:35:05,382 [Framework stop - Equinox Container: 8738ab36-c092-4606-a0ba-1bb148ea7f9a] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Bacchi\git\EstudoEmJava\.git]
+2023-10-18 19:35:15,913 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
